@@ -3,8 +3,8 @@ Projeto de uma Calculadora de IMC em React com TypeScript
 
 Desenvolvido durante o curso da [B7Web](https://b7web.com.br).
 
-### Instalação
+## Instalação
 `npm install`
 
-### Para rodar
+## Para iniciar a aplicação
 `npm start`
